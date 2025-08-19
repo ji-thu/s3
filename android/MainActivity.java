@@ -10,7 +10,7 @@ import android.widget.ImageView;
 public class MainActivity extends AppCompatActivity {
     private ImageView imageView;
 
-    // ✅ Array of images to toggle through
+    
     private int[] imageIds = {
             R.drawable.img1,
             R.drawable.img2,
